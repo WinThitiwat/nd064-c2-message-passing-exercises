@@ -1,5 +1,5 @@
 # Message Passing Exercises
-This repo contains the code for demos, exercises, and exercise solutions.
+This repo contains the code for demos, exercises, and exercise solutions, that are updated by WinThitiwat.
 
 This repository organizes the code by the lessons that they are used in. Each set of code is located in their respective lessons. The code for each respective lesson is set up as a directory which is its own distinct project.
 
